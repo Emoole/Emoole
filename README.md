@@ -4,6 +4,8 @@
 - 📫 How to reach me on LinkdLn like www.linkedin.com/in/elianamonsalve
      and twitter like @emonlopdev
 <!---- 💞️ I’m looking to collaborate on ...--->
+Data Analisys Projects
+Make simple projects improve my skills.
 
 	👾
 <!---
