@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emoole
 - 👀 I’m interested in learn and share little projects about RPA, BI and Web Apps using EF
-- 🌱 I’m currently learning ASP.NET Core and SSIS
+- 🌱 I’m currently learning Power BI (DAX), Statistics and Python.
 - 📫 How to reach me on LinkdLn like www.linkedin.com/in/elianamonsalve
-     and twitter like @emonlopdev
+  
 <!---- 💞️ I’m looking to collaborate on ...--->
 Data Analisys Projects
 Make simple projects improve my skills.
